@@ -4,7 +4,7 @@ Indian Institute of Information Technology, Bhubaneswar
 
 A web-based Smart Mess Management System designed to digitise and simplify daily mess operations, including student management, meal booking, billing, attendance, complaints and announcements.
 
-Live Demo: https://mess-management-p4mo.onrender.com
+Live Demo: https://mess-management-1-ausa.onrender.com/
 
 ---
 
